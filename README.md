@@ -9,16 +9,16 @@ The purpose of this project is to determine how successful various campaigns wer
 ## Analysis and Challenges
 Several metrics were derived from original Kickstarter campaign data.  Several dates needed to be converted from Unix timestamps and the parent and subcategory needed to be parsed in order to perform a more detailed analysis.
 
-[Kickstarter Challenge](https://github.com/curt0230/kickstarter-analysis/blob/main/kickstarter-analysis/kickstarter-analysis/Kickstarter_Challenge.zip)
+[Kickstarter Challenge](https://github.com/curt0230/kickstarter-analysis/blob/main/kickstarter-analysis/Kickstarter_Challenge.zip)
 
 ### Analysis of Outcomes Based on Launch Date
 
 
-![Theater_Outcomes_vs_Launch](/kickstarter-analysis/Resources/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
-![Outcomes_vs_Goals](/kickstarter-analysis/Resources/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals](/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
